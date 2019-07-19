@@ -5,7 +5,7 @@
 Experience
 ----------
 
-Having 17+ years of engineering experience and with excellent track record of on-time delivery of Cloud Native Saas services and big data platforms.
+Having 17+ years of engineering experience and with excellent track record of on-time delivery of Cloud Native Saas services and BigData platforms.
 
 - Managing, mentoring & leading team of engineers with varied levels of experiences
 - Hiring talented folks, coaching & goal setting
